@@ -1,0 +1,38 @@
+.main{
+    padding-top: 125px;
+    padding-left: 520px;
+    padding-right: 530px;
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+}
+
+.mid-nav{
+    height: 60vh;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+}
+.qr-code{
+    border-radius: 15px;
+}
+.img{
+    border-radius: 10px;
+}
+.main-content{
+
+}
+.main-content h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main-content p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
